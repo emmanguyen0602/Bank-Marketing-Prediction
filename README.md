@@ -1,1 +1,1 @@
-# -predict-if-the-client-will-subscribe-a-term-deposit
+# predict if the client will subscribe a term deposit
