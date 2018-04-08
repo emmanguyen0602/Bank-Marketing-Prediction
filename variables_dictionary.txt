@@ -16,7 +16,8 @@ bank client data:
 6 - housing: has housing loan? (categorical: 'no','yes','unknown')
 
 7 - loan: has personal loan? (categorical: 'no','yes','unknown')
-# related with the last contact of the current campaign:
+
+related with the last contact of the current campaign:
 
 8 - contact: contact communication type (categorical: 'cellular','telephone') 
 
